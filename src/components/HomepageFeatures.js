@@ -4,32 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Facil de usar',
+    Svg: require('../../static/img/facil.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Recipever fue diseñado para encontrar nuevas recetas y organizar las propias 
+        de una manera sencilla e intuitiva
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Todo en un solo lugar',
+    Svg: require('../../static/img/all.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Puede utilizar Recipever para encontrar, organizar, consultar, guardar sus recetas en un solo lugar. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Olvidese de las recetas fisicas',
+    Svg: require('../../static/img/lost.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        No tendrá que almacenar recetarios físicos que nunca se utilizan y nunca volverá a perder una receta que vio en la web
       </>
     ),
   },
