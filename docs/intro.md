@@ -27,5 +27,5 @@ Recipever es una herramienta muy útil para la cocina, que las personas pueden u
 
 ## Como empezar
 
-El viaje comienza en:  [https//www.recipever.com](https//www.recipever.com) ***Aun no se termina el despliegue de la aplicacion***
+El viaje comienza en:  ***Aun no se termina el despliegue de la aplicacion***
 
