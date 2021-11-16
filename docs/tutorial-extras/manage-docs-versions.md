@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Pagina de prueba 1
 
 Docusaurus can manage multiple versions of your docs.
 
